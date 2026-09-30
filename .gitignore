@@ -3,7 +3,7 @@ node_modules/
 
 # next.js
 /.next/
-/out/
+# /out/  (di-track untuk Cloudflare assets-only deploy)
 
 # production
 /build
